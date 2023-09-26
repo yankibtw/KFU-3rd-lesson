@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\Tymakov\obj\Debug\Tymakov.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\Tymakov\obj\Debug\Tymakov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\Tymakov\obj\Debug\Tymakov.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\Tymakov\bin\Debug\Tymakov.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\Tymakov\bin\Debug\Tymakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\Tymakov\bin\Debug\Tymakov.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\Tymakov\obj\Debug\Tymakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\Tymakov\obj\Debug\Tymakov.pdb

@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\KFU-3rd-lesson\bin\Debug\KFU-3rd-lesson.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\KFU-3rd-lesson\bin\Debug\KFU-3rd-lesson.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\KFU-3rd-lesson\bin\Debug\KFU-3rd-lesson.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\KFU-3rd-lesson\obj\Debug\KFU-3rd-lesson.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\KFU-3rd-lesson\obj\Debug\KFU-3rd-lesson.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\KFU-3rd-lesson\obj\Debug\KFU-3rd-lesson.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\KFU-3rd-lesson\obj\Debug\KFU-3rd-lesson.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-3rd-lesson\KFU-3rd-lesson\obj\Debug\KFU-3rd-lesson.pdb
